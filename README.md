@@ -19,7 +19,7 @@ El objetivo de la práctica es diseñar y programar un afinador de instrumentos 
 
 1. El **INMP441** capta el sonido ambiental (por ejemplo, de una cuerda de guitarra).
 2. El **ESP32-S3** recibe los datos de audio a través del protocolo **I2S**.
-3. Se procesa la señal de audio en tiempo real para calcular la **frecuencia dominante**, mediante transformada rápida de Fourier (**FFT**) u otro algoritmo de estimación de tono.
+3. Se procesa la señal de audio en tiempo real para calcular la **frecuencia dominante**, mediante transformada rápida de Fourier (**FFT**).
 4. La frecuencia calculada se compara con las frecuencias estándar de notas musicales (por ejemplo, 440 Hz para el **LA**).
 5. La frecuencia se muestra por puerto serie o en pantalla para afinar el instrumento.
 
