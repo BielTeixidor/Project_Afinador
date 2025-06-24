@@ -2,7 +2,7 @@ Afinador de Instrumentos con ESP32-S3 e INMP441
 
 ## Objetivo de la práctica
 
-Diseñar y programar un afinador de instrumentos sencillo utilizando una placa **ESP32-S3** y un micrófono digital **INMP441**, capaz de detectar la frecuencia fundamental de una señal de audio y mostrarla para su comparación con notas musicales estándar.
+El objetivo de la práctica es diseñar y programar un afinador de instrumentos sencillo utilizando una placa **ESP32-S3** y un micrófono digital **INMP441**, capaz de detectar la frecuencia fundamental de una señal de audio y mostrarla para su comparación con notas musicales estándar.
 
 
 
