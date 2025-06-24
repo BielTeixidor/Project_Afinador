@@ -30,14 +30,6 @@ El objetivo de la práctica es diseñar y programar un afinador de instrumentos 
 
 
 
-## Comentarios
-
-- El **INMP441** es un micrófono digital muy sensible y adecuado para análisis de audio, ya que ofrece buena respuesta en frecuencia.
-- La elección de la **FFT** o de algoritmos más precisos como **autocorrelación** o **YIN** depende del nivel de exactitud requerido y de la carga computacional disponible.
-- El ESP32-S3 es ideal para este tipo de aplicaciones gracias a su **potencia de procesamiento** y **soporte nativo de I2S**.
-- Se recomienda filtrar el ruido ambiental y normalizar la señal para mejorar la precisión de la detección.
-
-
 
 ## Posibles mejoras
 
