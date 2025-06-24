@@ -4,7 +4,7 @@ Afinador de Instrumentos con ESP32-S3 e INMP441
 
 Diseñar y programar un afinador de instrumentos sencillo utilizando una placa **ESP32-S3** y un micrófono digital **INMP441**, capaz de detectar la frecuencia fundamental de una señal de audio y mostrarla para su comparación con notas musicales estándar.
 
----
+
 
 ## Componentes utilizados
 
@@ -13,7 +13,7 @@ Diseñar y programar un afinador de instrumentos sencillo utilizando una placa *
 - Cables jumper
 - (Opcional) Pantalla OLED o interfaz serie para visualizar la frecuencia
 
----
+
 
 ## Descripción del funcionamiento
 
@@ -23,7 +23,7 @@ Diseñar y programar un afinador de instrumentos sencillo utilizando una placa *
 4. La frecuencia calculada se compara con las frecuencias estándar de notas musicales (por ejemplo, 440 Hz para el **LA**).
 5. La frecuencia se muestra por puerto serie o en pantalla para afinar el instrumento.
 
----
+
 
 ## Estructura del proyecto
 
