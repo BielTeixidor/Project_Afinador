@@ -57,3 +57,6 @@ El projecte consta d'un únic arxiu `.ino` que inclou tota la lògica de captura
 | WS (LRCL)   | GPIO2     |
 | SCK         | GPIO18    |
 | SD          | GPIO35    |
+
+## Vista desde la pagina web
+![image](https://github.com/user-attachments/assets/2651454b-8383-4e6b-8c10-e82b3cef092b)
